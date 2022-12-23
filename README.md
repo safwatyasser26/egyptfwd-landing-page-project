@@ -1,6 +1,6 @@
-#Egypt-Fwd Landing Page Project
+# Egypt-Fwd Landing Page Project
 
-##Table of contents
+## Table of contents
 
 -[Introduction](#i)
 -[Features](#f)
