@@ -2,14 +2,14 @@
 
 ## Table of contents
 
--[Introduction](#i)
--[Features](#f)
+-[Introduction](#i).
+-[Features](#f).
 
-## Intorduction{#i}
+## Intorduction{#i}.
 
-This is egypt fwd project to make landing page using javascript
+This is egypt fwd project to make landing page using javascript.
 
-##Features{#f}
+##Features{#f}.
 -Create navigation bar list dynamically.
 -Scroll to any section using anchors in navigation bar list.
 -In scrolling, detect what section we are in.
@@ -18,4 +18,4 @@ This is egypt fwd project to make landing page using javascript
 -styling the menu link which we are in its section.
 
 ##Developer 
-###[Safwat Yasser](https://github.com/safwatyasser26)
+### [Safwat Yasser](https://github.com/safwatyasser26).
