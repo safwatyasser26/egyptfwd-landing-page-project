@@ -2,10 +2,10 @@
 
 ## Table of contents
 
--[Introduction](#i).
--[Features](#f).
+-[Introduction.](#i)
+-[Features.](#f)
 
-## Intorduction{#i}.
+## Intorduction{#i}
 
 This is egypt fwd project to make landing page using javascript.
 
@@ -17,5 +17,5 @@ This is egypt fwd project to make landing page using javascript.
 ## Additional Features
 -styling the menu link which we are in its section.
 
-##Developer 
-### [Safwat Yasser](https://github.com/safwatyasser26).
+## Developer 
+### [Safwat Yasser](https://github.com/safwatyasser26)
