@@ -2,8 +2,8 @@
 
 ## Table of contents
 
--[Introduction.](#i)
--[Features.](#f)
+-Introduction.
+-Features.
 
 ## Intorduction{#i}
 
