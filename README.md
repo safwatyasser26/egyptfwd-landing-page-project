@@ -9,7 +9,7 @@
 
 This is egypt fwd project to make landing page using javascript.
 
-##Features{#f}.
+## Features{#f}.
 -Create navigation bar list dynamically.
 -Scroll to any section using anchors in navigation bar list.
 -In scrolling, detect what section we are in.
